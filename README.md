@@ -44,8 +44,8 @@ Exemplo de respostas
 #### Parametros
 ```
   {
-	  "email":"flavio.santos92@live.com",
-    "password":"node"
+  "email":"seuemail",
+    "password":"suasenha"
    }
 ```
 #### Respostas
